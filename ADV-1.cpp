@@ -11,6 +11,7 @@
 #define inf 10000000000000LL
 #include"algorithm"
 using namespace std;
+//来源于网络https://www.cnblogs.com/mypsq/p/4410081.html
 struct node
 {
     double x,y;
